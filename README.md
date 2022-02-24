@@ -16,3 +16,5 @@ All’arrivo dei nuovi prodotti, un dipendente aggiorna la quantità di prodotti
 Gli utenti e i dipendenti interagiscono con il sistema tramite console.<br><br>
 
 All'interno della directory Assegnamento1 è possibile trovare un manuale che guida all'utilizzo del sistema.
+
+Realizzato da: Leonardo Minaudo e Michele Cairone
